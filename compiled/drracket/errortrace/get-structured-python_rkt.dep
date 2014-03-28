@@ -1,0 +1,1 @@
+("5.3" ("bfd5dcf5bf6a0868582c8d83cede140abdd008ab" . "fd0ebd4b6fee754bb49bfc8707830bfe6d72db03") #"/gpfs/main/home/aecarlso/python173/Python173/design3/python-syntax.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"plai" #"main.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"list.rkt") (collects #"plai" #"lang" #"reader.rkt"))
